@@ -1,0 +1,31 @@
+# Credentials and secrets
+.env
+.env.local
+.env.*.local
+
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Output data files
+*.json
+*.csv
+data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
